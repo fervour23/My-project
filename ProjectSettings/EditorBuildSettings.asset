@@ -9,8 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/menu.unity
     guid: 4afb69776c259a7469714af0d1af66b2
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/Scenes/3npcwithstaff.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/one_with_staff.unity
+    guid: 691c243a8ac87a941841ba5ac7ec7606
+  - enabled: 1
+    path: Assets/Scenes/zerowithstaff.unity
+    guid: 285bd3bd8a7d9b545ba1664aeae7628e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4c44ee842ed8b244cb6222e11803b104,
       type: 2}
